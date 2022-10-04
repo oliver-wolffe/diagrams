@@ -1,1 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T08:17:36.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.3.7" etag="knq8lkgmtHbDNDuadCGZ" type="github"><diagram id="Pra7Ti1Itql7A0pMZJDG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-04T09:15:50.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VnZh0cU2BXeTYdjyhrte" version="20.3.7" type="github" pages="2">
+  <diagram id="Pra7Ti1Itql7A0pMZJDG" name="Page-1">
+    <mxGraphModel dx="1778" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P-3rOzOowKx57UyMNsX6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="P-3rOzOowKx57UyMNsX6-2" target="P-3rOzOowKx57UyMNsX6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.475;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="P-3rOzOowKx57UyMNsX6-2" target="c69klhJZtKXw2RqqqRLg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="P-3rOzOowKx57UyMNsX6-2" target="c69klhJZtKXw2RqqqRLg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-2" value="1. Records of previously loaded files&lt;br&gt;2. Meta data for ingestion process&lt;br&gt;3. Data retention metadata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c69klhJZtKXw2RqqqRLg-11" target="c69klhJZtKXw2RqqqRLg-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="550" />
+              <mxPoint x="400" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="500" width="70" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c69klhJZtKXw2RqqqRLg-2" target="c69klhJZtKXw2RqqqRLg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-3" value="Documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647704-pdf-128.png" vertex="1" parent="1">
+          <mxGeometry x="85" y="320" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="85" y="390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c69klhJZtKXw2RqqqRLg-7" target="c69klhJZtKXw2RqqqRLg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-7" value="1. Check against previous files (hash and name)&lt;br&gt;2. Identify type of file&lt;br&gt;3. Filter out duplicate and unrecognised files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-128.png;dashed=1;strokeColor=#1F0FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="282.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-10" value="Landing Zone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-12" value="Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="470" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c69klhJZtKXw2RqqqRLg-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c69klhJZtKXw2RqqqRLg-13" target="P-3rOzOowKx57UyMNsX6-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="380" />
+              <mxPoint x="770" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-13" value="1. Copy to Raw Layer in original format&lt;br&gt;2. Transform to cleansed layer - in text file format, with identifying information&lt;br&gt;3. Convert to generalised entities for analysis&lt;br&gt;(4. Data Science Findings)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="434.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-16" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="c69klhJZtKXw2RqqqRLg-17" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-3" value="Data Lake" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="499" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-4" value="Control database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="52.06" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="434.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-11" value="And/Or" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="600" y="489" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="P-3rOzOowKx57UyMNsX6-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="P-3rOzOowKx57UyMNsX6-13" target="P-3rOzOowKx57UyMNsX6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-13" value="1. Normalised view of data captured from documents and source systems&lt;br&gt;2. Work flow for case management, including document metadata" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="610" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-15" value="Application Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="591" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-22" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="434.5" width="56.67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-23" value="1. Overview of findings analysis&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="860" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-24" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-25" value="1. Access to findings from analysis&lt;br&gt;2. Case workflow interface&lt;br&gt;3. Access to original raw documents from data lake storage" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="860" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P-3rOzOowKx57UyMNsX6-26" value="Front End Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="469" y="820" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3vegy7elSlUphwwQ_S_d" name="Page-2">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q4otIG3thRw6N4SjEn54-1" value="New document lands in storage account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
