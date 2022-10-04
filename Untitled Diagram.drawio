@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T18:58:09.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="z_Nx0DtNWZNu3tRrAIES" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-04T18:59:19.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uvJfwMJQ-WP8OizikRb-" version="20.4.0" type="github" pages="4">
   <diagram name="Existing" id="Wsej-TDM1HXPToVfORTQ">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -580,7 +580,7 @@
           <mxGeometry x="240" y="622" width="247" height="120" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" parent="I5HDex1g3F-nHRB4iq0s-1" vertex="1">
-          <mxGeometry x="379.81" y="685" width="50" height="50" as="geometry" />
+          <mxGeometry x="425.46" y="686" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-18" value="Compute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="I5HDex1g3F-nHRB4iq0s-1" vertex="1">
           <mxGeometry x="413" y="348" width="70" height="30" as="geometry" />
@@ -597,7 +597,7 @@
         <mxCell id="UDIigLuiOjK6hGr2poT0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#5E5E5E;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="FvFdkbZrNfWr9pnM1dHG-2" target="I5HDex1g3F-nHRB4iq0s-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FvFdkbZrNfWr9pnM1dHG-2" value="&lt;font color=&quot;#5e5e5e&quot;&gt;(OPTIONAL)&lt;br&gt;Onboarding of data source types for ingestion to layers 0 and 1 of data lake&lt;br&gt;&lt;br&gt;User/role admin&lt;br&gt;&lt;br&gt;Admin of rules&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5E5E5E;fillColor=default;" parent="I5HDex1g3F-nHRB4iq0s-1" vertex="1">
+        <mxCell id="FvFdkbZrNfWr9pnM1dHG-2" value="&lt;font color=&quot;#5e5e5e&quot;&gt;(OPTIONAL)&lt;br&gt;Onboarding of data source types for ingestion to layers 0 and 1 of data lake&lt;br&gt;&lt;br&gt;User/role admin&lt;br&gt;&lt;br&gt;Analysis rules admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5E5E5E;fillColor=default;" parent="I5HDex1g3F-nHRB4iq0s-1" vertex="1">
           <mxGeometry x="863.5" y="620" width="238.5" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FvFdkbZrNfWr9pnM1dHG-3" value="Application Admin Panel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;opacity=80;fontColor=#5E5E5E;" parent="I5HDex1g3F-nHRB4iq0s-1" vertex="1">
