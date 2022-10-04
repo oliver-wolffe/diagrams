@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T16:18:08.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uZ4r9pjmUieipXYBVh_3" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-04T17:49:16.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9C7lt3sDV2LIr-iGRQDV" version="20.4.0" type="github" pages="4">
   <diagram name="Existing" id="Wsej-TDM1HXPToVfORTQ">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -355,27 +355,33 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proposed Landscape" id="JkXdkpq2DJHgAVvQw6TN">
-    <mxGraphModel dx="1673" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-0" />
         <mxCell id="I5HDex1g3F-nHRB4iq0s-1" parent="I5HDex1g3F-nHRB4iq0s-0" />
         <mxCell id="aqcdg5_cZ6DrtpX_7uWv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="198" y="92" width="280" height="485" as="geometry" />
         </mxCell>
-        <mxCell id="31GNZFfRvvtgPn3lsuRk-8" value="ETL and EDA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="224.48" y="517.75" width="233.33" height="37.5" as="geometry" />
+        <mxCell id="abTUSLJxet09t2G-HYRt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="abTUSLJxet09t2G-HYRt-4" target="I5HDex1g3F-nHRB4iq0s-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abTUSLJxet09t2G-HYRt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="218.5" y="381" width="249" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="31GNZFfRvvtgPn3lsuRk-8" value="ETL, EDA, ML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="224.29" y="496.75" width="233.33" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-9" value="File onboarding/deduplication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="224.67" y="417" width="233.33" height="37.5" as="geometry" />
+          <mxGeometry x="224.48" y="396" width="233.33" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-10" value="Forms Recogniser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="224.67" y="467" width="233.33" height="37.5" as="geometry" />
+          <mxGeometry x="224.48" y="446" width="233.33" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="aqcdg5_cZ6DrtpX_7uWv-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="22" y="587" width="1126" height="162.5" as="geometry" />
+          <mxGeometry x="22" y="587" width="1089" height="162.5" as="geometry" />
         </mxCell>
         <mxCell id="aqcdg5_cZ6DrtpX_7uWv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="818" y="89.5" width="330" height="480" as="geometry" />
+          <mxGeometry x="818" y="89.5" width="290" height="480" as="geometry" />
         </mxCell>
         <mxCell id="aqcdg5_cZ6DrtpX_7uWv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="490" y="89.5" width="318" height="485" as="geometry" />
@@ -392,8 +398,19 @@
         <mxCell id="aqcdg5_cZ6DrtpX_7uWv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="22" y="97" width="166" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-6" value="1. Records of previously loaded files&lt;br&gt;2. Meta data for ingestion process&lt;br&gt;3. Data retention metadata&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="243.19" y="617" width="200" height="120" as="geometry" />
+        <mxCell id="abTUSLJxet09t2G-HYRt-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="I5HDex1g3F-nHRB4iq0s-6" target="I5HDex1g3F-nHRB4iq0s-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="677" />
+              <mxPoint x="500" y="252" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abTUSLJxet09t2G-HYRt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="I5HDex1g3F-nHRB4iq0s-6" target="31GNZFfRvvtgPn3lsuRk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-6" value="Records of previously loaded files&lt;br&gt;Meta data for ingestion process&lt;br&gt;Data retention metadata&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="106" y="617" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="I5HDex1g3F-nHRB4iq0s-8" target="I5HDex1g3F-nHRB4iq0s-23">
           <mxGeometry relative="1" as="geometry">
@@ -419,7 +436,7 @@
           <mxGeometry x="52" y="167" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-11" value="Documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="62" y="137" width="80" height="30" as="geometry" />
+          <mxGeometry x="72" y="137" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647704-pdf-128.png" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="77" y="187" width="50" height="50" as="geometry" />
@@ -430,35 +447,32 @@
         <mxCell id="I5HDex1g3F-nHRB4iq0s-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="80" y="402" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-16" value="Ingesting documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="224.67" y="417" width="233.33" height="37.5" as="geometry" />
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-16" value="Document ingestion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="224.48" y="396" width="233.33" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-128.png;dashed=1;strokeColor=#1F0FFF;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="35" y="147" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-19" value="Source Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="47" y="337" width="110" height="30" as="geometry" />
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-19" value="Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="88" y="341" width="64" height="26" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="I5HDex1g3F-nHRB4iq0s-23" target="I5HDex1g3F-nHRB4iq0s-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-23" value="0. Raw Layer in original format&lt;br&gt;1. Cleansed parquet/delta file copy of raw&lt;br&gt;2. Conformed to general entities&lt;br&gt;3. Findings outputs&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-23" value="&lt;i&gt;Data lake layers&lt;/i&gt;&lt;br&gt;0. Raw Layer in original format&lt;br&gt;1. Cleansed parquet/delta file copy of raw&lt;br&gt;2. Conformed to general entities&lt;br&gt;3. Findings outputs&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="228" y="167" width="230" height="171" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-26" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="407.00000000000006" y="280" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;strokeColor=default;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="395.5" y="687" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="262" y="687" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-28" value="Data Lake" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="380.07" y="137" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-29" value="Control Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="338" y="587" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-32" value="And/Or" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="377.54" y="550.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="188" y="589" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aqcdg5_cZ6DrtpX_7uWv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I5HDex1g3F-nHRB4iq0s-1" source="I5HDex1g3F-nHRB4iq0s-35" target="I5HDex1g3F-nHRB4iq0s-49">
           <mxGeometry relative="1" as="geometry" />
@@ -471,7 +485,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-35" value="1. Normalised view of data captured from documents and source systems&lt;br&gt;2. Work flow for case management, including document metadata&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-35" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Normalised view of data captured from documents and source systems&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Work flow for case management, including document metadata&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="524.5" y="167" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;strokeColor=default;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
@@ -481,15 +495,15 @@
           <mxGeometry x="630" y="137" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-38" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;strokeColor=default;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="416.13" y="420.75" width="38.25" height="33.75" as="geometry" />
+          <mxGeometry x="415.94" y="399.75" width="38.25" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-39" value="1. Overview of findings analysis&lt;br&gt;2. Metrics on proportion of documents analysed etc.&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-39" value="Overview of findings analysis&lt;br&gt;&lt;br&gt;Operational metrics" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="845.5" y="403.63" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-40" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="1005.5" y="373.63" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I5HDex1g3F-nHRB4iq0s-41" value="1. Access to findings from analysis&lt;br&gt;2. Case workflow interface&lt;br&gt;3. Access to original raw documents from data lake storage&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+        <mxCell id="I5HDex1g3F-nHRB4iq0s-41" value="Access to findings from analysis&lt;br&gt;&lt;br&gt;Case workflow interface&lt;br&gt;&lt;br&gt;Access to raw documents from &lt;br&gt;data lake&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="845.5" y="177" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-42" value="Application Front End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
@@ -520,13 +534,13 @@
           <mxGeometry x="28" y="1" width="320" height="73" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-5" value="PDF conversion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="224.67" y="467" width="233.33" height="37.5" as="geometry" />
+          <mxGeometry x="224.48" y="446" width="233.33" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-47" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;strokeColor=default;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="415.41999999999996" y="472" width="38.96" height="27.5" as="geometry" />
+          <mxGeometry x="415.22999999999996" y="451" width="38.96" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;strokeColor=default;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="418.34999999999997" y="517.75" width="33.09" height="37.5" as="geometry" />
+          <mxGeometry x="418.15999999999997" y="496.75" width="33.09" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-11" value="&lt;h3&gt;Data Sources&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="52" y="77" width="110" height="60" as="geometry" />
@@ -541,25 +555,28 @@
           <mxGeometry x="649.5" y="272" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-15" value="&lt;h3&gt;Application Front End&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="898" y="77" width="170" height="60" as="geometry" />
+          <mxGeometry x="878" y="77" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-16" value="&lt;h3&gt;Orchestration&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
           <mxGeometry x="503" y="574" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="31GNZFfRvvtgPn3lsuRk-17" value="1. Records of previously loaded files&lt;br&gt;2. Meta data for ingestion process&lt;br&gt;3. Data retention metadata&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="658" y="617" width="200" height="120" as="geometry" />
+        <mxCell id="31GNZFfRvvtgPn3lsuRk-17" value="Triggering and scheduling data processing tasks&lt;br&gt;Metadata driven from control DB&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="628" y="617" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="I5HDex1g3F-nHRB4iq0s-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="808" y="685.75" width="50" height="50" as="geometry" />
+          <mxGeometry x="772.19" y="687" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-18" value="Compute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="389.19" y="387" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="31GNZFfRvvtgPn3lsuRk-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="228" y="419.5" width="32.5" height="32.5" as="geometry" />
+          <mxGeometry x="397.5" y="355" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31GNZFfRvvtgPn3lsuRk-22" value="Process Orchestration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
-          <mxGeometry x="730" y="591" width="137" height="26" as="geometry" />
+          <mxGeometry x="700" y="591" width="137" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="abTUSLJxet09t2G-HYRt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;opacity=50;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="232.79999999999998" y="396.25" width="49.52" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="31GNZFfRvvtgPn3lsuRk-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#7EB9B9;fillColor=none;" vertex="1" parent="I5HDex1g3F-nHRB4iq0s-1">
+          <mxGeometry x="241.30999999999997" y="449" width="32.5" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
